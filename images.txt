@@ -1,1 +1,2 @@
 sonarqube:7.8-community
+apache/doris:build-env-for-2.0
