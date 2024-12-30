@@ -1,3 +1,4 @@
 sonarqube:7.8-community
 apache/doris:build-env-for-2.0
 linuxserver/libreoffice:7.6.7
+linuxserver/libreoffice:7.6.7 --platform linux/arm64
