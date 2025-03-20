@@ -1,2 +1,2 @@
 --platform=arm64 linuxserver/libreoffice:7.6.7
-demisto/python3:3.12.8.1983910
+python:3.12.9-slim
